@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel down Caballero</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Caballero</h1>
 <h3 align="center">A programming student from UTN university</h3>
 
 - 👨‍💻 All of my projects are available at [Github.com/gcaballero99](Github.com/gcaballero99)
